@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Python Cache & Excel Temp Files
+__pycache__/
+*.pyc
+~$*.xlsx
